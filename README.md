@@ -1,7 +1,7 @@
-Safarzoda_2014
+#Safarzoda_2014
 ==============
 
-Analysis and data for Safarzoda 2014
+##Analysis and data for Safarzoda 2014
 
 Analysis examining impact of natural enemies on cereal aphid population growth in winter wheat fields in early spring. Study examined population dynamics of two aphid species, Bird Cherry Oat aphid (BCHO) and Engligh grain aphid (EG), using various natural enemy exclusion treatments.
 
@@ -11,7 +11,7 @@ Second experiment consisted of four treatments- Closed cages, to exclude all nat
 
 Analysis consisted of ANOVA, using models with negative binomial error structures to account for distribution of insect-count data. Rao's statistic was used to determine which factors were statistically significant. Post-hoc analyses consisted  of pairwise t-tests that were Holm adjusted for multiple comparisons. Plots were constructed using ggplot2.
 
-Data (Tab-separated variable files): 
-safarzoda_pred_exclusion.txt- aphid counts over time, expt 1
-safarzoda_pred_guilds.txt - aphid counts over time, expt 2
-safarzoda_predators.txt -natural enemy counts over time, expt 2
+## Data (Tab-separated variable files): <br>
+safarzoda_pred_exclusion.txt- aphid counts over time, expt 1<br>
+safarzoda_pred_guilds.txt - aphid counts over time, expt 2<br>
+safarzoda_predators.txt -natural enemy counts over time, expt 2<br>
