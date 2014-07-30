@@ -32,9 +32,9 @@ shapepal<-c(15,17,19,8)
 pd <- position_dodge(.5)
 
 # bring in data
-expt1<-read.table(file="C:/RData/safarzoda_pred_exclusion.txt", header=TRUE)
-expt2<-read.table(file="C:/RData/safarzoda_pred_guilds.txt", header=TRUE)
-enemies<-read.table(file="C:/RData/safarzoda_predators.txt", header=TRUE, na.strings="NA")
+expt1<-read.table(file="https://raw.githubusercontent.com/cbahlai/Safarzoda_2014/master/safarzoda_pred_exclusion.txt", header=TRUE)
+expt2<-read.table(file="https://raw.githubusercontent.com/cbahlai/Safarzoda_2014/master/safarzoda_pred_guilds.txt", header=TRUE)
+enemies<-read.table(file="https://raw.githubusercontent.com/cbahlai/Safarzoda_2014/master/safarzoda_predators.txt", header=TRUE, na.strings="NA")
 
 #################
 # expt 1
