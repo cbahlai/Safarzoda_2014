@@ -3,7 +3,7 @@
 
 ##Analysis and data for Safarzoda 2014
 
-Analysis examining impact of natural enemies on cereal aphid population growth in winter wheat fields in early spring. Study examined population dynamics of two aphid species, Bird Cherry Oat aphid (BCHO) and Engligh grain aphid (EG), using various natural enemy exclusion treatments.
+Analysis examining impact of natural enemies on cereal aphid population growth in winter wheat fields in early spring. Study examined population dynamics of two aphid species, Bird Cherry Oat aphid (BCHO) and Engligh grain aphid (EG), using various natural enemy exclusion treatments, in East Lansing, Michigan, USA, in 2012-2013.
 
 First experiment used closed cages to exclude natural enemies, open cages to allow natural enemies full access to aphids, and sham cages to account for cage effects while allowing natural enemies to access aphids
 
