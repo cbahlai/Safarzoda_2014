@@ -10,3 +10,8 @@ First experiment used closed cagwes to exclude natural enemies, open cages to al
 Second experiment consisted of four treatments- Closed cages, to exclude all natural enemies, open plots, to allow access to all natural enemies, top cages, to limit access to aphids by foliar foraging predators, and bottom cages, to limit access to aphids by ground-dwelling predators.
 
 Analysis consisted of ANOVA, using models with negative binomial error structures to account for distribution of insect-count data. Rao's statistic was used to determine which factors were statistically significant. Post-hoc analyses consisted  of pairwise t-tests that were Holm adjusted for multiple comparisons. Plots were constructed using ggplot2.
+
+Data (Tab-separated variable files): 
+safarzoda_pred_exclusion.txt- aphid counts over time, expt 1
+safarzoda_pred_guilds.txt - aphid counts over time, expt 2
+safarzoda_predators.txt -natural enemy counts over time, expt 2
